@@ -1,0 +1,30 @@
+fname,lname,mobile,gender,age,employment_status,income,loan,investments,contribute,tenure,goal,investment_purpose,risk,target,description
+JONTHAN,WOLF-PROVENZA,8814819625,F,50,Salaried,48690,Yes,Yes,5000,10,Long Term Goal,Income stream for retirement,High,Thematic funds,Equity Funds
+ROBERT,HAMMERSTEIN,6411032943,F,42,Business,74537,No,No,10000,8,Long Term Goal,Build a nest egg for retirement,Low,Liquid funds,Debt Funds
+VLADIMIR,MEDER,5393417721,M,58,Business,81660,Yes,Yes,15000,7,Long Term Goal,Leave a financial legacy to your family,Mid,Equity diversified funds,Equity Funds
+CLARA,CHOULAI,7699564825,F,69,Business,67375,No,No,7000,2,Short Term Goal,Take a vacation,High,Thematic funds,Equity Funds
+STEPHANIE,HEMESLY,7970767990,F,40,Salaried,74816,No,Yes,10000,3,Mid Term Goal,Buy a vacation home,High,Thematic funds,Equity Funds
+MARIE-LOUISE,WACHBERGER,4434498141,F,25,Business,52455,No,No,9000,5,Mid Term Goal,Save a down payment for a home,Mid,Equity-oriented funds,Balanced Funds
+PRUDENCE,PURINTON,8695889456,F,25,Salaried,68727,Yes,No,12000,2,Short Term Goal,Plan for wedding,High,Thematic funds,Equity Funds
+GILBERT,SMITH,4807378122,M,65,Business,78355,No,No,15000,10,Long Term Goal,Leave a financial legacy to your family,Low,Income funds LT,Debt Funds
+ANDREW,BATTERSBY,3508571022,M,42,Salaried,73890,No,Yes,5000,8,Mid Term Goal,Buy a vacation home,Low,FMPs,Debt Funds
+LEONARD,DOS REMEDIOS,5479206291,M,28,Business,56886,No,No,10000,5,Mid Term Goal,Save a down payment for a home,Low,Arbitrage funds,Debt Funds
+ITO,TAYLOR-HUNYADI,8865074637,M,43,Salaried,48684,Yes,No,3000,7,Mid Term Goal,Have the funds to start a new business,Mid,Debt-oriented funds,Balanced Funds
+GUILLERMO,GONZALES,4775495546,M,30,Salaried,25812,No,No,2000,5,Mid Term Goal,Save for you childrens education,Mid,Equity-oriented funds,Balanced Funds
+MARGARET,MEDINA-SIDONIA,9792818839,F,28,Salaried,50802,No,No,11000,4,Mid Term Goal,Save a down payment for a home,High,Sector funds,Equity Funds
+SHALA,SHIEKELESLAM,3122049568,F,25,Salaried,72221,Yes,No,20000,1,Short Term Goal,Plan for wedding,High,Sector funds,Equity Funds
+CHRISTINE,DUNNETT,6290393567,F,32,Business,91650,No,No,13000,2,Short Term Goal,Take a vacation,Mid,Equity diversified funds,Equity Funds
+YUKIO,MIFUNE,4996549821,M,24,Salaried,55537,No,No,12500,5,Short Term Goal,Plan for wedding,High,Sector funds,Equity Funds
+RICHARD,ARDIS,4873334942,M,58,Business,80984,No,Yes,12500,4,Long Term Goal,Build a nest egg for retirement,High,Thematic funds,Equity Funds
+KARL-HEINZ,KRAUSE,9077861102,M,54,Salaried,86872,Yes,No,14000,8,Long Term Goal,Leave a financial legacy to your family,Mid,Debt-oriented funds,Balanced Funds
+WILLIAM,LOVELL,3152343729,M,45,Business,91229,No,No,8000,5,Mid Term Goal,Buy a vacation home,Low,Gilt funds ST,Debt Funds
+JUAN,RODRIGUES,5658875201,M,32,Salaried,37709,No,No,3000,8,Mid Term Goal,Save a down payment for a home,Low,Floating rate funds/ short-term income funds,Debt Funds
+CAROL,NISHIMATSU-LYNCH,3292187127,F,59,Business,32340,No,No,8000,3,Mid Term Goal,Have the funds to start a new business,Mid,Equity diversified funds,Equity Funds
+CHRIS,VARGAS,9835539922,M,35,Salaried,76154,No,Yes,5000,5,Mid Term Goal,Save for you childrens education,Mid,Equity diversified funds,Equity Funds
+WILLIAM,VARGAS,3152343729,M,45,Business,45000,No,No,8000,5,Mid Term Goal,Buy a vacation home,Low,MIPs,Debt Funds
+RICHARD,RODRIGUES,5658875201,M,32,Salaried,67000,No,No,3000,8,Mid Term Goal,Save a down payment for a home,Low,Gilt funds LT,Debt Funds
+WILLIAM,CHRIS,3152343729,M,45,Business,35600,No,No,8000,5,Mid Term Goal,Buy a vacation home,Low,Income funds LT,Debt Funds
+GUILLERMO,BATTERSBY,5658875201,M,32,Salaried,76580,No,No,3000,8,Mid Term Goal,Save a down payment for a home,Low,FMPs,Debt Funds
+VLADIMIR,PETER,5393417721,M,58,Business,81660,Yes,Yes,15000,7,Long Term Goal,Leave a financial legacy to your family,Low,Index funds,Equity Funds
+CLARA,ARDIS,7699564825,F,69,Business,67375,No,No,7000,3,Short Term Goal,Take a vacation,Mid,Dividend yield funds,Equity Funds
+STEPHANIE,HAWKING,7970767990,F,40,Salaried,74816,No,Yes,10000,4,Mid Term Goal,Buy a vacation home,Low,Index funds,Equity Funds

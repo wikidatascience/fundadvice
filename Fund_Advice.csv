@@ -1,0 +1,31 @@
+CustomerID,First_Name,Last_Name,Mobile_Number,Gender,Age,Residential_Status,Employment_Status,Salary,Liabilities_Loan,Liabilities_Other,Invest_Per_Month,Tenure,Purpose,Investment_Purpose,Risk_Factor,Target,Description
+119012,JONTHAN,WOLF-PROVENZA,8814819625,F,50,Home Owner,Salaried,48690,Home Loan,Credit Card,5000,10,Long Term Goal,Income stream for retirement,High,Thematic funds,Equity Funds
+120591,ROBERT,HAMMERSTEIN,6411032943,F,42,Tennent,Business,74537,Not Available,Not Available,10000,8,Long Term Goal,Build a nest egg for retirement,Low,Liquid funds,Debt Funds
+127845,VLADIMIR,MEDER,5393417721,M,58,Home Owner,Business,81660,Car Loan,Credit Card,15000,7,Long Term Goal,Leave a financial legacy to your family,Mid,Equity diversified funds,Equity Funds
+129540,CLARA,CHOULAI,7699564825,F,69,Home Owner,Business,67375,Not Available,Not Available,7000,2,Short Term Goal,Take a vacation,High,Thematic funds,Equity Funds
+135673,STEPHANIE,HEMESLY,7970767990,F,40,Home Owner,Salaried,74816,Not Available,Credit Card,10000,3,Mid Term Goal,Buy a vacation home,High,Thematic funds,Equity Funds
+212916,MARIE-LOUISE,WACHBERGER,4434498141,F,25,Tennent,Business,52455,Not Available,Not Available,9000,5,Mid Term Goal,Save a down payment for a home,Mid,Equity-oriented funds,Balanced Funds
+216382,PRUDENCE,PURINTON,8695889456,F,25,Home Owner,Salaried,68727,Loan,Not Available,12000,2,Short Term Goal,Plan for wedding,High,Thematic funds,Equity Funds
+234967,GILBERT,SMITH,4807378122,M,65,Home Owner,Business,78355,Not Available,Not Available,15000,10,Long Term Goal,Leave a financial legacy to your family,Low,Income funds LT,Debt Funds
+237642,ANDREW,BATTERSBY,3508571022,M,42,Home Owner,Salaried,73890,Not Available,Credit Card,5000,8,Mid Term Goal,Buy a vacation home,Low,FMPs,Debt Funds
+239185,LEONARD,DOS REMEDIOS,5479206291,M,28,Tennent,Business,56886,Not Available,Not Available,10000,5,Mid Term Goal,Save a down payment for a home,Low,Arbitrage funds,Debt Funds
+254896,ITO,TAYLOR-HUNYADI,8865074637,M,43,Home Owner,Salaried,48684,Home Loan,Not Available,3000,7,Mid Term Goal,Have the funds to start a new business,Mid,Debt-oriented funds,Balanced Funds
+321783,GUILLERMO,GONZALES,4775495546,M,30,Tennent,Salaried,25812,Not Available,Not Available,2000,5,Mid Term Goal,Save for you childrens education,Mid,Equity-oriented funds,Balanced Funds
+328140,MARGARET,MEDINA-SIDONIA,9792818839,F,28,Tennent,Salaried,50802,Not Available,Not Available,11000,4,Mid Term Goal,Save a down payment for a home,High,Sector funds,Equity Funds
+346917,SHALA,SHIEKELESLAM,3122049568,F,25,Home Owner,Salaried,72221,Personal Loan,Not Available,20000,1,Short Term Goal,Plan for wedding,High,Sector funds,Equity Funds
+356134,CHRISTINE,DUNNETT,6290393567,F,32,Tennent,Business,91650,Not Available,Not Available,13000,2,Short Term Goal,Take a vacation,Mid,Equity diversified funds,Equity Funds
+423286,YUKIO,MIFUNE,4996549821,M,24,Home Owner,Salaried,55537,Not Available,Not Available,12500,5,Short Term Goal,Plan for wedding,High,Sector funds,Equity Funds
+456910,RICHARD,ARDIS,4873334942,M,58,Home Owner,Business,80984,Not Available,Credit Card,12500,4,Long Term Goal,Build a nest egg for retirement,High,Thematic funds,Equity Funds
+456921,KARL-HEINZ,KRAUSE,9077861102,M,54,Tennent,Salaried,86872,Personal Loan,Not Available,14000,8,Long Term Goal,Leave a financial legacy to your family,Mid,Debt-oriented funds,Balanced Funds
+457232,WILLIAM,LOVELL,3152343729,M,45,Tennent,Business,91229,Not Available,Not Available,8000,5,Mid Term Goal,Buy a vacation home,Low,Gilt funds ST,Debt Funds
+459287,JUAN,RODRIGUES,5658875201,M,32,Tennent,Salaried,37709,Not Available,Not Available,3000,8,Mid Term Goal,Save a down payment for a home,Low,Floating rate funds/ short-term income funds,Debt Funds
+677890,CAROL,NISHIMATSU-LYNCH,3292187127,F,59,Home Owner,Business,32340,Not Available,Not Available,8000,3,Mid Term Goal,Have the funds to start a new business,Mid,Equity diversified funds,Equity Funds
+123456,CHRIS,VARGAS,9835539922,M,35,Home Owner,Salaried,76154,Not Available,Credit Card,5000,5,Mid Term Goal,Save for you childrens education,Mid,Equity diversified funds,Equity Funds
+456789,WILLIAM,VARGAS,3152343729,M,45,Tennent,Business,45000,Not Available,Not Available,8000,5,Mid Term Goal,Buy a vacation home,Low,MIPs,Debt Funds
+546789,RICHARD,RODRIGUES,5658875201,M,32,Tennent,Salaried,67000,Not Available,Not Available,3000,8,Mid Term Goal,Save a down payment for a home,Low,Gilt funds LT,Debt Funds
+654376,WILLIAM,CHRIS,3152343729,M,45,Tennent,Business,35600,Not Available,Not Available,8000,5,Mid Term Goal,Buy a vacation home,Low,Income funds LT,Debt Funds
+467389,GUILLERMO,BATTERSBY,5658875201,M,32,Tennent,Salaried,76580,Not Available,Not Available,3000,8,Mid Term Goal,Save a down payment for a home,Low,FMPs,Debt Funds
+345623,VLADIMIR,PETER,5393417721,M,58,Home Owner,Business,81660,Car Loan,Credit Card,15000,7,Long Term Goal,Leave a financial legacy to your family,Low,Index funds,Equity Funds
+768965,CLARA,ARDIS,7699564825,F,69,Home Owner,Business,67375,Not Available,Not Available,7000,3,Short Term Goal,Take a vacation,Mid,Dividend yield funds,Equity Funds
+349804,STEPHANIE,HAWKING,7970767990,F,40,Home Owner,Salaried,74816,Not Available,Credit Card,10000,4,Mid Term Goal,Buy a vacation home,Low,Index funds,Equity Funds
+768564,KARL-HEINZ,CLITORA,7973767990,F,40,Home Owner,Salaried,74816,Not Available,Credit Card,10000,5,Mid Term Goal,Buy a vacation home,Low,ELSS,Equity Funds
